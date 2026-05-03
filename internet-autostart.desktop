@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Internet Autostart
+Exec=bash -c "cd ~/internet-autostart/ && python3 main.py"
+Terminal=false
+Type=Application
