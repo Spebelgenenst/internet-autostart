@@ -1,4 +1,4 @@
-# internet connection checker
+# internet autostart
 A python script which runs a something, as soon as the device has an internet connection
 
 ## installation
